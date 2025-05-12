@@ -1,8 +1,11 @@
-# 🎮 Go Pokémon Pokedex CLI 🌟
+# 🎮 Pokémon in GO - Pokedex CLI
 
-Bem-vindo à sua Pokédex interativa de linha de comando, construída com Go! Explore o mundo Pokémon, tente capturar seus monstrinhos favoritos, veja sua coleção e até mesmo participe de batalhas emocionantes, tudo diretamente do seu terminal.
+Bem-vindo à sua Pokédex interativa de linha de comando, construída com Go! 
+Explore o mundo Pokémon, tente capturar seus monstrinhos favoritos, veja sua coleção e até mesmo participe de batalhas emocionantes, tudo diretamente do seu terminal.
 
-## ✨ Funcionalidades
+Esse projeto foi mais para estudar sobre Go, percebi que ela lembra muito a linguagem C / C++.
+
+## Funcionalidades
 
 *   📖 **Explorar Pokémons:** Veja uma lista de Pokémons disponíveis no jogo, seus tipos e se já foram capturados.
 *   🎯 **Tentar Capturar:** Teste sua sorte! Escolha um Pokémon e tente capturá-lo. Há uma chance de sucesso e de falha.
@@ -11,7 +14,7 @@ Bem-vindo à sua Pokédex interativa de linha de comando, construída com Go! Ex
 *   ⚙️ **Configurações:** Ajuste o tempo de resposta das mensagens no jogo para uma experiência personalizada.
 *   🚪 **Sair:** Encerre sua aventura Pokémon quando desejar.
 
-## 🚀 Como Executar
+## omo Executar
 
 ### Pré-requisitos
 
@@ -34,7 +37,7 @@ Bem-vindo à sua Pokédex interativa de linha de comando, construída com Go! Ex
 3.  **Divirta-se!**
     O jogo iniciará no seu terminal, apresentando o menu principal.
 
-## 🕹️ Como Jogar
+## Como Jogar
 
 Ao iniciar o programa, você será apresentado a um menu principal com as seguintes opções:
 
@@ -47,7 +50,7 @@ Ao iniciar o programa, você será apresentado a um menu principal com as seguin
 
 Siga as instruções na tela para navegar pelas opções e interagir com o jogo.
 
-## 🛠️ Estrutura do Projeto
+## Estrutura do Projeto
 
 *   `main.go`: O coração da aplicação. Contém toda a lógica do jogo, incluindo:
     *   A struct `Pokemon` para definir os atributos de cada monstrinho.
@@ -55,7 +58,7 @@ Siga as instruções na tela para navegar pelas opções e interagir com o jogo.
     *   Funções para cada opção do menu (explorar, capturar, ver capturados, batalhar, configurações).
     *   Funções auxiliares para limpar a tela e pausar a execução.
 
-## 🌱 Melhorias Futuras (Sugestões)
+## Melhorias Futuras (Sugestões)
 
 Este projeto é um ótimo ponto de partida! Aqui estão algumas ideias para expandi-lo:
 
@@ -77,4 +80,4 @@ Contribuições são bem-vindas! Se você tem ideias para melhorar este projeto,
 
 ---
 
-Divirta-se jogando e codificando!
+Divirta-se jogando e codando!!
